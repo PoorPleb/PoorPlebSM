@@ -1,6 +1,9 @@
 # Smart contract sha245sum
 aed3c59bbc77e9cdbb63131e1f9de157461c5ac7c4235f55294f553a204da68c  contracts/PoorPleb.sol
 
+# MerkleTree Addresses
+https://gofile.io/d/vkhlfj
+
 # 1 - Install Node
 Install Node Version Manager 
 Linux | MacOS -> https://github.com/nvm-sh/nvm
